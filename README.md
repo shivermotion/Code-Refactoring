@@ -1,4 +1,5 @@
 # Code-Refactoring
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/75548830/146125246-988ac293-8971-40a9-be44-ff79c92018b4.png)
 
 # Table of Content
 
